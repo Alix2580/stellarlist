@@ -1,5 +1,5 @@
 {
-    "id": 3370,
+    "id": 177,
     "name": "Carti Machine",
     "author": "YVL",
     "creators": [""],
@@ -9,7 +9,7 @@
     "password": "Copyable",
     "records": [
            {
-			"user": "Luna",
+			"user": "Lunaria",
 			"link": "https://youtu.be/fVZGE_ifjFo",
 			"percent": 100,
 			"hz": 480
