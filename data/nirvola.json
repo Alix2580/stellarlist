@@ -1,9 +1,9 @@
 {
-    "id": 975,
+    "id": 120,
     "name": "Nirvola",
     "author": "Furrious",
     "creators": [],
-    "verifier": "Luna",
+    "verifier": "Lunaria",
     "verification": "Link",
     "percentToQualify": 100,
     "password": "Copyable",
@@ -37,12 +37,6 @@
 			"link": "https://www.youtube.com/watch?v=KbaJ6rbYqlM",
 			"percent": 100,
 			"hz": 240
-		},
-         {
-			"user": "probablyAleksandra",
-			"link": "https://drive.google.com/file/d/1depl_tQEx7tl2cNL7Lc8WBoWd2l8Yuu7/view?usp=sharing",
-			"percent": 100,
-			"hz": 360
 		},
 	      {
 			"user": "Krieger",
