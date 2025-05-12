@@ -1,15 +1,15 @@
 {
-    "id": 1561,
+    "id": 172,
     "name": "Prometheus",
-    "author": "Kubikk",
+    "author": "Kubix",
     "creators": [],
-    "verifier": "Kubikk",
+    "verifier": "Kubix",
     "verification": "https://www.youtube.com/watch?v=ui00dXwskFc",
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
          {
-			"user": "Mathey",
+			"user": "mathey",
 			"link": "https://www.youtube.com/watch?v=ZjbBOcV3IS8",
 			"percent": 100,
 			"hz": 144
