@@ -10,7 +10,7 @@ export default {
 			<Spinner></Spinner>
 		</main>
 		<main v-else class="page-submit">
-			<h1>Submit a new record</h1>
+			<h1>Submit a new record // Made by doom</h1>
 			<div v-if="!sent" id="form-box">
 				<form class="form" method="POST">
 					<span class="note">* Inputs marked with an asterisk are required!</span>
