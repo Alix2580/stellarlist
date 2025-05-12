@@ -1,15 +1,15 @@
 {
-    "id": 1041,
+    "id": 173,
     "name": "Interpendence",
-    "author": "Kubikk",
-    "creators": ["Kubikk"],
-    "verifier": "Mathey",
+    "author": "Kubix",
+    "creators": ["Kubix"],
+    "verifier": "mathey",
     "verification": "https://youtu.be/Y8iUVxFmEG4",
     "percentToQualify": 100,
     "password": "Copyable",
     "records": [
         {
-			"user": "Kubikk",
+			"user": "Kubix",
 			"link": "https://medal.tv/games/geometry-dash/clips/iHPITZjZt8baTgxVS/d1337EgZF3zo?invite=cr-MSxMV1QsMjU5NzQ1NzUyLA",
 			"percent": 100,
 			"hz": 165
@@ -33,7 +33,7 @@
 			"hz": 240
 		},
 	     {
-			"user": "Luna",
+			"user": "Lunaria",
 			"link": "https://youtu.be/r5awb5baXJ8",
 			"percent": 100,
 			"hz": 480
