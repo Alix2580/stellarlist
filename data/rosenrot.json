@@ -1,24 +1,11 @@
 {
-    "id": 154,
+    "id": 109,
     "name": "Rosenrot",
-    "author": "Kubix",
-    "creators": ["Lunaria"],
-    "verifier": "Lunaria",
+    "author": "SKOE",
+    "creators": [""],
+    "verifier": "SKOE",
     "verification": "https://youtu.be/ZPqykLRIXHc",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": [
-                   {
-			"user": "Firelia",
-			"link": "https://youtu.be/j3Dv7Xbx30o",
-			"percent": 100,
-			"hz": 240
-		},
-                   {
-			"user": "Awennue",
-			"link": "https://youtu.be/M2GN8lXmWPQ",
-			"percent": 100,
-			"hz": 360
-		}
-	]
+    "records": []
 }
