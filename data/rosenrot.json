@@ -7,5 +7,12 @@
     "verification": "https://youtu.be/ZPqykLRIXHc",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+            {
+			"user": "Pygmy",
+			"link": "https://youtu.be/NzU0442373A",
+			"percent": 100,
+			"hz": 480
+		}
+    ]
 }
