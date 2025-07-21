@@ -1,31 +1,11 @@
 {
-    "id": 143,
+    "id": 173,
     "name": "Carmine Clutter",
-    "author": "Lunaria",
+    "author": "SKOE",
     "creators": [],
     "verifier": "doom",
     "verification": "https://youtu.be/W5zjVRzW7rw",
-    "percentToQualify": 64,
+    "percentToQualify": 100,
     "password": "Copyable",
-    "records": [
-        {
-			"user": "Lunaria",
-			"link": "https://www.youtube.com/watch?v=TABlikgASF0&t=31s",
-			"percent": 100,
-			"hz": 240
-		},
-        {
-			"user": "GreenCat",
-			"link": "https://www.youtube.com/watch?v=H8ZEBIOR8k0&ab_channel=Damnned",
-			"percent": 100,
-			"hz": 240
-		},
-        {
-			"user": "syrcx",
-			"link": "https://youtu.be/CV-ElbTI-ZM",
-			"percent": 100,
-			"hz": 240
-		}
-    ],
-			"tags": ["Former Top 1"]
+    "records": []
 }
