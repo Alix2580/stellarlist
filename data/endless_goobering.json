@@ -1,24 +1,11 @@
 {
-    "id": 147,
+    "id": 171,
     "name": "Endless Goobering",
-    "author": "Lunaria",
+    "author": "SKOE",
     "creators": [],
-    "verifier": "Lunaria",
-    "verification": "discordmp4",
+    "verifier": "doom",
+    "verification": "https://www.youtube.com/watch?v=MnHbZuIGMwI",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": [
-        {
-            "user": "Rae",
-            "link": "https://youtu.be/Lf_2S_agD6w",
-            "percent": 100,
-            "hz": 360
-        },
-        {
-            "user": "doom",
-            "link": "https://www.youtube.com/watch?v=MnHbZuIGMwI",
-            "percent": 100,
-            "hz": 240
-        }
-    ]
+    "records": []
 }
