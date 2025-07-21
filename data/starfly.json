@@ -7,5 +7,12 @@
     "verification": "harddemon",
     "percentToQualify": 100,
     "password": "Copyable",
-    "records": []
+    "records": [
+          {
+			"user": "Pygmy",
+			"link": "https://www.youtube.com/watch?v=A30fo6RvRqw&feature=youtu.be",
+			"percent": 100,
+			"hz": 480
+		}
+    ]
 }
